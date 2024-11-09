@@ -13,8 +13,8 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to PHP Application!</h1>
-    <h2>Yes, This is working fine!</h2>
+    <h1>Welcome to PHP Application!!!!</h1>
+    <h2>The application is running through Docker containers!</h2>
 </body>
 </html>
 
