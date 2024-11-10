@@ -15,7 +15,7 @@
 <body>
     <h1>Welcome to PHP Application!</h1>
 
-    <h2>The application is running through Docker containers!1111</h2>
+    <h2>The application is running through Docker containers!</h2>
 
 </body>
 </html>
