@@ -15,7 +15,7 @@
 <body>
     <h1>Welcome to PHP Application!</h1>
 
-    <h2>The application is running through Docker containers!</h2>
+    <h2>The application is running through Docker containers! Check this application depoyed using CI/CD pipeline.</h2>
 
 </body>
 </html>
